@@ -2,7 +2,7 @@
 
 ## Akshay Vaidya
 
-### Check live website [link](https://shopifav.netlify.app/).
+### Check live website [link](https://shopifyav.netlify.app/).
 
 
 ## What I learned?
